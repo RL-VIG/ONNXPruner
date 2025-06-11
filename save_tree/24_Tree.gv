@@ -1,0 +1,8 @@
+// Binary Tree
+digraph {
+	"6b5478b2-4687-11f0-8d1e-3cecef68ab7a" [label="[24]: Conv" color=purple fontcolor=purple fontsize=24 style=filled]
+	"6b547fba-4687-11f0-8d1e-3cecef68ab7a" [label="[25]: Relu" color=orange fontcolor=orange fontsize=24 style=filled]
+	"6b5478b2-4687-11f0-8d1e-3cecef68ab7a" -> "6b547fba-4687-11f0-8d1e-3cecef68ab7a" [label=""]
+	"6b54874e-4687-11f0-8d1e-3cecef68ab7a" [label="[26]: Conv" color=purple fontcolor=purple fontsize=24 style=filled]
+	"6b547fba-4687-11f0-8d1e-3cecef68ab7a" -> "6b54874e-4687-11f0-8d1e-3cecef68ab7a" [label=""]
+}
